@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-dsffafsfsdfsafdsdfda
-=======
-dsadsdadadsa
->>>>>>> C4
+1
